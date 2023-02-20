@@ -1,4 +1,4 @@
-# IRL-OW2
+# OW2-Motion-Controller
 ### Full Body Motion Controller for Playing Overwatch 2
 
 Tracks full body pose and translates it to controller inputs to play Overwatch
